@@ -1,6 +1,9 @@
 # Trie
 ## Aim 
 Created memory efficient Trie datastructure with O(n) complexity of search ,insert and delete operations of string .<br>
+## How to run 
+clone the repo than execute the Pxtree.cpp file <br>
+for more details on output of program see output.txt and Pxtree.cpp file.<br>
 ## Class Pxtree Member 
 1) int count(string s) :- Return the count associated with the string s. If the string is not in the tree, return 0.<br>
 2) void add(string s)  :- Add the string s to the tree if it is not already represented the tree, and assign a count of 1. If it is already in the tree increment the count by 1.<br>
