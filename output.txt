@@ -1,0 +1,48 @@
+Simple Demonstration of Pxtree
+h 0
+  e 0
+    l 0
+      l 0
+        o 1
+h 0
+  e 0
+    l 0
+      l 1
+        o 1
+h 0
+  e 0
+    l 0
+      l 1
+        o 1
+      p 1
+h 0
+  e 0
+    l 0
+      l 1
+        o 1
+      p 1
+g 0
+  e 0
+    e 0
+      k 1
+hell
+h 0
+  e 0
+    l 0
+      l 1
+        o 0
+      p 1
+g 0
+  e 0
+    e 0
+      k 1
+h 0
+  e 0
+    l 0
+      l 1
+      p 1
+g 0
+  e 0
+    e 0
+      k 1
+2
