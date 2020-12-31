@@ -11,3 +11,6 @@ string.<br>
 5) string autoComplete(string s) :-return the string with the highest count that ends in the subtree rooted at s, including s itself. If there are strings with equal <br>
 maximum counts, return anyone.If there are no such strings, return s itself.This is meant to be difficult.<br>
 6) void compact() :- This "compacts" the tree by removing any leaves with a count of 0.
+## More Details
+  ![alt text](https://github.com/3682himanshu/Trie/blob/master/Images/image1.JPG?raw=true)
+  ![alt text](https://github.com/3682himanshu/Trie/blob/master/Images/image2.JPG?raw=true)
