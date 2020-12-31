@@ -17,3 +17,5 @@ maximum counts, return anyone.If there are no such strings, return s itself.This
 ## More Details
   ![alt text](https://github.com/3682himanshu/Trie/blob/master/Images/image1.JPG?raw=true)
   ![alt text](https://github.com/3682himanshu/Trie/blob/master/Images/image2.JPG?raw=true)
+## For more details on approach of Program
+  See the approach and graphical representation  PDF file.<br>
